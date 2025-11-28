@@ -1,0 +1,16 @@
+p
+
+{
+color: blue;
+font-size: x-large;
+font-family: serif;
+
+}
+
+body{
+    max-width: 800px;
+    margin:auto
+
+    background-color: darkgrey;
+    background-image: url(smolotniga.jpg);
+}
