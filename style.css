@@ -9,8 +9,28 @@ font-family: serif;
 
 body{
     max-width: 800px;
-    margin:auto
+    margin:auto;
 
     background-color: darkgrey;
     background-image: url(smolotniga.jpg);
+
+
+
+
+
+}
+h1
+
+{
+
+color: white;
+
+}
+
+div
+
+{
+
+background-color: black;
+padding: 20px;
 }
